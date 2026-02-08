@@ -1,6 +1,6 @@
 ﻿namespace ProjectManagement.Domain.Enums;
 
-internal enum OrganizationRole
+public enum OrganizationRole
 {
     Admin,
     User

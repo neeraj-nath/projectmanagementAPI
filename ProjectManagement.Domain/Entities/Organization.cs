@@ -1,6 +1,8 @@
-﻿
-/// Represents the Tenant Model
-/// 
+﻿///<summary>
+/// Represents the Tenant Model : Individual Organization who would buy this application
+///</summary>
+
+
 using System;
 
 namespace ProjectManagement.Domain.Entities;
